@@ -2,6 +2,16 @@
 
 A simple and responsive Employee Management System built using React.js, JavaScript, HTML, CSS, and JSON.
 
+## Screenshots
+
+### Dashboard UI
+
+![Dashboard UI](screenshot1.png)
+
+### Employee Table UI
+
+![Employee Table UI](screenshot2.png)
+
 ## Features
 
 - Add Employee
