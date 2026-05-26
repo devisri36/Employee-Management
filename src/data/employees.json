@@ -1,0 +1,22 @@
+[
+  {
+    "id": 1,
+    "name": "Rahul Kumar",
+    "email": "rahul@gmail.com",
+    "phone": "9876543210",
+    "department": "IT",
+    "role": "Frontend Developer",
+    "salary": 50000,
+    "status": "Active"
+  },
+  {
+    "id": 2,
+    "name": "Priya Sharma",
+    "email": "priya@gmail.com",
+    "phone": "9123456780",
+    "department": "HR",
+    "role": "HR Manager",
+    "salary": 45000,
+    "status": "Active"
+  }
+]
