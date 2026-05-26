@@ -1,16 +1,88 @@
-# React + Vite
+# Smart Employee Management System
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+A simple and responsive Employee Management System built using React.js, JavaScript, HTML, CSS, and JSON.
 
-Currently, two official plugins are available:
+## Features
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+- Add Employee
+- Edit Employee
+- Delete Employee
+- Search Employees
+- Dashboard Statistics
+- Persistent Data using localStorage
+- Responsive UI Design
 
-## React Compiler
+## Dashboard Includes
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+- Total Employees
+- Active Employees
+- Inactive Employees
+- Total Salary Expense
 
-## Expanding the ESLint configuration
+## Technologies Used
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+- React.js
+- JavaScript
+- HTML5
+- CSS3
+- JSON
+- React Hooks
+- localStorage
+
+## Project Structure
+
+```bash
+src/
+│
+├── components/
+│   ├── Navbar.jsx
+│   ├── Dashboard.jsx
+│   ├── AddEmployee.jsx
+│   ├── EmployeeTable.jsx
+│   └── SearchBar.jsx
+│
+├── data/
+│   └── employees.json
+│
+├── App.jsx
+├── App.css
+└── main.jsx
+```
+
+## Installation
+
+1. Clone the repository
+
+```bash
+git clone github-repo
+```
+
+2. Navigate to project folder
+
+```bash
+cd smart-employee-management
+```
+
+3. Install dependencies
+
+```bash
+npm install
+```
+
+4. Start development server
+
+```bash
+npm run dev
+```
+
+## Future Improvements
+
+- Department Filter
+- Dark Mode
+- Charts & Analytics
+- React Router Pages
+- Export Employee Reports
+
+## Author
+
+Developed by Devi Sri Lakshmi
