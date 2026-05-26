@@ -2,6 +2,10 @@
 
 A simple and responsive Employee Management System built using React.js, JavaScript, HTML, CSS, and JSON.
 
+## Live Demo
+
+[View Live Project](https://employee-management-system-devisri36s-projects.vercel.app/)
+
 ## Screenshots
 
 ### Dashboard UI
