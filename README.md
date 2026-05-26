@@ -6,11 +6,11 @@ A simple and responsive Employee Management System built using React.js, JavaScr
 
 ### Dashboard UI
 
-![Dashboard UI](screenshot1.png)
+![Dashboard UI](screenshot1.jpg)
 
 ### Employee Table UI
 
-![Employee Table UI](screenshot2.png)
+![Employee Table UI](screenshot2.jpg)
 
 ## Features
 
